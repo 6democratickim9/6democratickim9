@@ -1,31 +1,22 @@
-
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=6democratickim9&fontSize=90&animation=twinkling)
 
 
-<a href="https://github.com/6democratickim9/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=6democratickim9&repo=github-readme-stats" />
- 
-</a>
-<a href="https://github.com/6democratickim9/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=6democratickim9&repo=convoychat" />
-  
-</a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F6democratickim9&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/6democratickim9)
 
-<!--
- ![6democratickim9's GitHub stats](https://github-readme-stats.vercel.app/api?username=6democratickim9&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6democratickim9&layout=compact&theme=tokyonight)
--->
+
+  ![6democratickim9's GitHub stats](https://github-readme-stats.vercel.app/api?username=6democratickim9&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6democratickim9&layout=compact&theme=tokyonight)
 
 <p align="center">
 - 🌱 I’m currently learning SpringBoot <br>
 - 📫 How to reach me: shcomon24@gmail.com
 </p>
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+🛠 Tech Stack 🛠
 
-<p align="center"> Techs that I've used at least once </p>
-
-<p align="center">
+Techs that I've used at least once 
+<div>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
@@ -45,6 +36,6 @@
   <br>
   <img src="https://img.shields.io/badge/AWS-ff8200?style=flat-square&logo=amazonaws&logoColor=white"/></a>&nbsp
 </p>
+</div>
 
-
-
+</div>
