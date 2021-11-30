@@ -1,6 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hi there 😀 &fontSize=90&animation=twinkling)
+
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90&animation=twinkling)
+
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F6democratickim9&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/6democratickim9)
@@ -9,12 +11,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6democratickim9&layout=compact&theme=material-palenight)
 
 
-<p align="center">
-### 🌱 I’m currently learning SpringBoot <br><br>
- <a href="mailto:6democratickim9@gmail.com" target="_blank">
+📩 <a href="mailto:6democratickim9@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
-</p>
+
   
 ## 🛠 Tech Stack 🛠
 
