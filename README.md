@@ -4,11 +4,11 @@
 
 
 
-![6democratickim9's GitHub stats](https://github-readme-stats.vercel.app/api?username=6democratickim9ID&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6democratickim9s&layout=compact&theme=tokyonight)
+![6democratickim9's GitHub stats](https://github-readme-stats.vercel.app/api?username=6democratickim9&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6democratickim9&layout=compact&theme=tokyonight)
 
 
-< align="center">
+<p align="center">
 - 🌱 I’m currently learning SpringBoot
 - 📫 How to reach me: shcomon24@gmail.com
 </p>
