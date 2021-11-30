@@ -3,13 +3,19 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=6democratickim9&fontSize=90&animation=twinkling)
 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=6democratickim9&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=6democratickim9&repo=convoychat" />
+</a>
 
-![6democratickim9's GitHub stats](https://github-readme-stats.vercel.app/api?username=6democratickim9&show_icons=true&theme=radical)
+<!--![6democratickim9's GitHub stats](https://github-readme-stats.vercel.app/api?username=6democratickim9&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6democratickim9&layout=compact&theme=tokyonight)
-
+-->
 
 <p align="center">
-- 🌱 I’m currently learning SpringBoot
+- 🌱 I’m currently learning SpringBoot <br>
 - 📫 How to reach me: shcomon24@gmail.com
 </p>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
