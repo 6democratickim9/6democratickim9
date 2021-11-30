@@ -1,18 +1,19 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=6democratickim9&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&&fontSize=90&animation=twinkling)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F6democratickim9&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/6democratickim9)
-
-
-  ![6democratickim9's GitHub stats](https://github-readme-stats.vercel.app/api?username=6democratickim9&show_icons=true&theme=radical)
-  <br>
-
+  
+  
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=6democratickim9/&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6democratickim9/&layout=compact&theme=material-palenight)
 
 <p align="center">
 - 🌱 I’m currently learning SpringBoot <br>
-- 📫 How to reach me: shcomon24@gmail.com
+ <a href="mailto:6democratickim9@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
 </p>
 🛠 Tech Stack 🛠
 
@@ -38,6 +39,15 @@ Techs that I've used at least once
   <img src="https://img.shields.io/badge/AWS-ff8200?style=flat-square&logo=amazonaws&logoColor=white"/></a>&nbsp
 </p>
 </div>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6democratickim9&layout=compact&theme=tokyonight)
+
+## ✨ Cowork tools ✨
+
+<div>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gather-caa6fe?style=flat-square&logo=Undertale&logoColor=white"/>
+</div>
+
 
 </div>
