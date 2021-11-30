@@ -3,10 +3,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=6democratickim9&fontSize=90&animation=twinkling)
 
 
-<p align="center">
+
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=6democratickim9&theme=dark)](https://github.com/6democratickim9)
 
-
+< align="center">
 - 🌱 I’m currently learning SpringBoot
 - 📫 How to reach me: shcomon24@gmail.com
 </p>
