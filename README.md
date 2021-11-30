@@ -4,7 +4,9 @@
 
 
 
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=6democratickim9&theme=dark)](https://github.com/6democratickim9)
+![6democratickim9's GitHub stats](https://github-readme-stats.vercel.app/api?username=6democratickim9ID&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6democratickim9s&layout=compact&theme=tokyonight)
+
 
 < align="center">
 - 🌱 I’m currently learning SpringBoot
