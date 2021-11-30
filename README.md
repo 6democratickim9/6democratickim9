@@ -7,7 +7,8 @@
 
 
   ![6democratickim9's GitHub stats](https://github-readme-stats.vercel.app/api?username=6democratickim9&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6democratickim9&layout=compact&theme=tokyonight)
+  <br>
+
 
 <p align="center">
 - 🌱 I’m currently learning SpringBoot <br>
@@ -37,5 +38,6 @@ Techs that I've used at least once
   <img src="https://img.shields.io/badge/AWS-ff8200?style=flat-square&logo=amazonaws&logoColor=white"/></a>&nbsp
 </p>
 </div>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6democratickim9&layout=compact&theme=tokyonight)
 
 </div>
