@@ -5,7 +5,7 @@
 
 <div>
   
-  <img width="494" height="200" alt="Github status" src="https://github-readme-stats.vercel.app/api?username=6democratickim99&count_private=true&theme=radical">
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JuHyun419&theme=dark)](https://github.com/JuHyun419)
   
   
 </div>  
