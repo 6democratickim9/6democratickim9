@@ -10,12 +10,12 @@
 
 
 <p align="center">
-- 🌱 I’m currently learning SpringBoot <br>
+- 🌱 I’m currently learning SpringBoot <br><br><br>
  <a href="mailto:6democratickim9@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
 </p>
-##🛠 Tech Stack 🛠
+## 🛠 Tech Stack 🛠
 
 Techs that I've used at least once 
 <div>
@@ -39,7 +39,8 @@ Techs that I've used at least once
   <img src="https://img.shields.io/badge/AWS-ff8200?style=flat-square&logo=amazonaws&logoColor=white"/></a>&nbsp
 </p>
 </div>
-
+<br>
+<br>
 ## ✨ Cowork tools ✨
 
 <div>
