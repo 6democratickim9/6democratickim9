@@ -13,6 +13,9 @@
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
 
+  <div>
+    <img src="https://images.credly.com/size/340x340/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png"/></a>
+  </div>
   
 ## 🛠 Tech Stack 🛠
 
