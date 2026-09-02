@@ -3,11 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=6democratickim9&fontSize=90&animation=twinkling)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F6democratickim9&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/6democratickim9)
-  
 ![6democratickim9's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=6democratickim9&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6democratickim9&layout=compact&theme=material-palenight)
-
 
   
 ## 🛠 Tech Stack 🛠
