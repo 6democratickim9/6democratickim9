@@ -1,45 +1,31 @@
-<div align="center">
+## Hi, I'm Minju 👋
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=6democratickim9&fontSize=90&animation=twinkling)
+DevOps Engineer with experience operating production systems across AWS/EKS and on-premise Kubernetes/OpenShift environments (Especially working on on-premise k8s environment system these days ;) )
 
+I'm currently expanding my work toward AI production infrastructure, with a focus on Kubernetes-based inference, reliability, observability, and operational automation.
 
-![6democratickim9's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=6democratickim9&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
+### What I work with
 
-  
-## 🛠 Tech Stack 🛠
+- Kubernetes / EKS / OpenShift
+- AWS
+- CI/CD & Deployment Automation
+- Production Troubleshooting & Incident Response
+- Observability
+- Python / Bash
+- Terraform
 
-Techs that I've used at least once 
-  
-<div>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5.js&logoColor=white"/></a>&nbsp 
-<br>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Docker-2f62a4?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Consul-d62783?style=flat-square&logo=consul&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/AWS-ff8200?style=flat-square&logo=amazonaws&logoColor=white"/></a>&nbsp
-</p>
-</div>
+### Currently working on
 
-## ✨ Cowork tools ✨
+🏺 CONE — AI Production Infrastructure Lab
 
-<div>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gather-caa6fe?style=flat-square&logo=Undertale&logoColor=white"/>
-</div>
+Building a Kubernetes-based LLM inference environment around a pottery glaze and firing-record application.
 
-
-</div>
+Focus areas:
+- AWS EKS
+- GPU workloads
+- vLLM
+- Prometheus / Grafana / OpenTelemetry
+- SLI / SLO
+- Load & capacity testing
+- Failure recovery
+- Rollout / rollback
